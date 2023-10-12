@@ -46,6 +46,6 @@
     "conflicts": []
   },
   "url": "https://github.com/rakotoz/foundryCharacterSheet",
-  "manifest": "https://github.com/rakotoz/foundryCharacterSheet/releases/download/0.0.1/module.json",
-  "download": "https://github.com/rakotoz/foundryCharacterSheet/releases/download/0.0.1/module.zip"
+  "manifest": "https://github.com/rakotoz/foundryCharacterSheet/releases/download/0.0.2/module.json",
+  "download": "https://github.com/rakotoz/foundryCharacterSheet/releases/download/0.0.2/module.zip"
 }
