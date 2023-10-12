@@ -1,0 +1,38 @@
+{
+  "id": "revancharsheet",
+  "title": "RevanCharsheet",
+  "description": "Красивый лист персонажа",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.308"
+  },
+  "authors": [
+    {
+      "name": "Alex Efremov",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "module.js"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+        "compatibility": {
+          "minimum": "2.2.1",
+          "verified": "2.2.1"
+        }
+      },
+      {
+        "id": "sw5e",
+        "type": "system"
+      }
+    ],
+    "requires": [],
+    "conflicts": [
+    ]
+  }
+}
