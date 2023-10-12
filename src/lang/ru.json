@@ -1,0 +1,15 @@
+{
+  "REVANCS": {
+    "Settings": {
+      "SheetMenu": {
+        "name": "Revan Sheet Settings",
+        "hint": "Customize your own version of Revan",
+        "label": "Sheet Settings",
+        "title": "Revan Sheet Settings"
+      }
+    }
+  },
+  "REVANCSNPC": "Revan 5e NPC Sheet",
+  "REVANCSCHARACTER": "Revan 5e Character Sheet",
+  "REVANCSNPCITEM": "Revan 5e Item Sheet"
+}
